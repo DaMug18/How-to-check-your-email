@@ -6,4 +6,5 @@ How to check your email:
 
 3. Log in to your account by typing in your login and password
 
-4. Click your inbox, and you have successfully checked your email! 
+4. Click your inbox, and you have successfully checked your email!
+	a. Also Delete all the spam your relatives think is okay to send to you 
